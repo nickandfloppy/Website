@@ -1,6 +1,6 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: #3c3c84;
+	background-image: url('/src/img/starbg.gif');
 	color: #ffffff;
 }
 
@@ -24,6 +24,31 @@ a:active {
   text-decoration: underline;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0px;
+}
+
+h2 {
+  font-style: italic;
+}
+
+small {
+  font-size: medium;
+}
+
 td {
   padding: 4px;
+}
+
+table.container {
+  border: double ;
+  text-align: center;
+}
+
+pre {
+  white-space: pre-wrap;       /* Since CSS 2.1 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ - Doesn't seem to work? */
 }
