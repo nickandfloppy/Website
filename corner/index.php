@@ -20,10 +20,10 @@
 		<?php
 		require('../pageheader.html');
 		require('func.php');
-		echo '<hr><iframe src="./discord.php" width="100%" height="480px">';
 		?>
+		<hr><iframe src="./discord.php" width="100%" height="480px">
 		<hr>
-		<center><address>&copy; 2022 <a href="http://nickandfloppy.com/">nick and floppy</a></address></center>
+		<?php require('../footer.php'); ?>
 	</td></tr></table></center>
 </body>
 </html>

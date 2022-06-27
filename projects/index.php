@@ -19,7 +19,7 @@
         <table><td><img src="http://rewind.nickandfloppy.com/favicon.png" width="35"></td><td><h2><a href="https://github.com/nickandfloppy/SoftwareRewind">SoftwareRewind</a> <small>(<a href="http://rewind.nickandfloppy.com/">HTTP</a> / <a href="https://rewind.nickandfloppy.com/">HTTPS</a>)</small></h2></td></table>
 		<p>A software archival website</p>
         <hr>
-		<center><address>&copy; 2022 <a href="http://nickandfloppy.com/">nick and floppy</a></address></center>
+		<?php require('../footer.php'); ?>
 	</td></tr></table></center>
 </body>
 </html>

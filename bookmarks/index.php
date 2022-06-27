@@ -54,7 +54,7 @@
         <p>A love letter to the Internet of old.</p>
         <br>
         <hr>
-		<center><address>&copy; 2022 <a href="http://nickandfloppy.com/">nick and floppy</a></address></center>
+		<?php require('../footer.php'); ?>
 	</td></tr></table></center>
 </body>
 </html>

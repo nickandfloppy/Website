@@ -18,19 +18,27 @@ function status ($status) {
 }
 
 $bots = array(
-    "NotSoBalls",
-    "NotSoDingus",
-    "NotSoIRC-Relay",
-    "NotSoLogger",
-    "NotSoMatrixRelay",
-    "NotSoNetMC",
-    "NotSoNetRunner",
-    "NotSoNickelodeon",
-    "NotSoNotSoBot",
-    "NotSoNQN",
-    "NotSoPythonBot",
-    "NotSoRythm",
-    "NotSoStatbot",
-    "NotSoTweetShift"
+    "BloatBot™",
+    "covfefe",
+    "Funzo",
+    "IceCreamBot",
+    "IRC-Relay",
+    "Lagger",
+    "MathBot",
+    "Matrix-Relay",
+    "NetMC",
+    "NetRunner",
+    "Nickelodeon",
+    "Balls",
+    "MinBot",
+    "NotSoBot",
+    "NotSoWinBot",
+    "NQN",
+    "PlexBot",
+    "Polaroid",
+    "PythonBot",
+    "PythonBot2",
+    "Statbot",
+    "TweetShift"
 );
 ?>
