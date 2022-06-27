@@ -9,6 +9,7 @@
     	<?php require('../pageheader.html'); ?>
     	<hr>
     	<h1>Projects</h1>
+        <hr>
         <table><td><img src="https://git.nickandfloppy.com/repo-avatars/42-e991d8508d9e3cdef5807818f9f40fb8" width="35"></td><td><h2><a href="https://github.com/nickandfloppy/NetRunner">NetRunner</a></h2></td></table>
         <p>A fork of Starman0620's WinBot, modified for use in <a href="/corner">The Corner</a>.</p>
         <br>

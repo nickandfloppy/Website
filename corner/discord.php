@@ -22,11 +22,9 @@ $rawJson = file_get_contents('https://discord.com/api/guilds/764493398983049246/
 if ($rawJson == "") {
     echo "<i><pre>Error retrieving data</pre></i>";
 } else {
-    echo '<table border="1">';
     $server = (json_decode($rawJson));
-    echo '<tr><td colspan="2"><b><i>' . $server->name . '</i></b><br><a href="' . $server->instant_invite . '"><button type="button">Join Server</button></a></td></tr>';
-    echo '</td></table>';
-
+    echo '<h1>' . $server->name . '&nbsp;<a href="' . $server->instant_invite . '"><button type="button">Join server</button></a></h1>';
+    echo '<hr>';
     echo '<h2><u>Voice Channels</u></h2>';
     echo '<table border="1">';
     $vcs = "";
