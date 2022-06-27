@@ -16,13 +16,19 @@
         <table><td><img src="./icons/winworld.png" title="WinWorldPC icon"></td><td><h2><a href="https://winworldpc.com/home">WinWorldPC</a></h2></td></table>
         <p>WinWorld is an online museum dedicated to the preservation and sharing of vintage, abandoned, and pre-release software.</p>
         <br>
+        <table><td><img src="./icons/escargot.png" title="Escargot icon"></td><td><h2><a href="http://escargot.chat/">Escargot</a></h2></td></table>
+        <p>MSN & Yahoo Messenger Revival</p>
+        <br>
+        <table><td><img src="./icons/nina.png" title="NINA icon"></td><td><h2><a href="https://nina.chat/">NINA</a></h2></td></table>
+        <p>Upcoming revival of the America Online service.</p>
+        <br>
         <h2>Friends' Sites</h2>
         <hr>
         <table><td><img src="./icons/noicon.png" title="No icon available"></td><td><h2><a href="https://joshuaalto.com/">Sashi</a></h2></td></table>
         <p>...lol marquees</p>
         <br>
         <table><td><img src="./icons/danielle.png" title="Danielle Wheeler icon"></td><td><h2><a href="https://danika.jukor.net/">Danielle Wheeler</a></h2></td></table>
-        <p></p>
+        <p>Supporting Vintage and Modern Windows, from 3.1x to 10</p>
         <br>
         <table><td><img src="./icons/strangeness.png" width="32" height="32" title="Strangeness Blog icon"></td><td><h2><a href="http://strangenessblog.net/">Strangeness Blog</a></h2></td></table>
         <p>noone's blog</p>
