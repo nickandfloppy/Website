@@ -1,7 +1,13 @@
 <html>
 <head>
     <?php require('../head.php'); ?>
-    <title>nick and floppy's projects</title>
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="nick and floppy's Projects">
+    <meta property="og:description" content="Projects we've worked on together!">
+    <meta property="og:image" content="/favicon.png">
+
+    <title>nick and floppy's Projects</title>
 </head>
 
 <body>

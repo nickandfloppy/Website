@@ -1,7 +1,13 @@
 <html>
 <head>
 	<?php require('../head.php'); ?>
-	<title>nick and floppy's website</title>
+
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="The Corner">
+	<meta property="og:description" content="Information about our discord, &quot;The Corner&quot;">
+	<meta property="og:image" content="/favicon.png">
+
+	<title>The Corner</title>
 	<style>
 	.dnd {
 		border: 5px #f04747 solid;
