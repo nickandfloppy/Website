@@ -36,7 +36,7 @@
         <table><td><img src="./icons/noicon.png" title="No icon available"></td><td><h2><a href="https://campos02.neocities.org/">campos</a></h2></td></table>
         <p>Cool brazilian dude, does programming and stuff</p>
         <br>
-        <table><td><img src="./icons/hiden.png" title="HIDEN64 icon"></td><td><h2><a href="https://hiden64.ddns.net/">HIDEN64</a></h2></td></table>
+        <table><td><img src="./icons/hiden.png" title="HIDEN64 icon"></td><td><h2><a href="https://hiden.pw/">HIDEN64</a></h2></td></table>
         <p>Moar buttons!</p>
         <br>
         <table><td><img src="./icons/noicon.png" title="No icon available"></td><td><h2><a href="http://cocomark.neocities.org/">Coco's Website</a></h2></td></table>
