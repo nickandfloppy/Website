@@ -1,6 +1,12 @@
 <html>
 <head>
     <?php require('head.php'); ?>
+
+    <meta property="og:type" content="website">
+	<meta property="og:title" content="nick and floppy's Website">
+	<meta property="og:description" content="The official website of nick and floppy">
+	<meta property="og:image" content="/favicon.png">
+
     <title>nick and floppy's website</title>
 </head>
 
